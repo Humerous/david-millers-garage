@@ -1,8 +1,8 @@
 # David Miller’s Garage
 
-A restored MERN car collection CRUD application, originally built in 2020 as part of the Hyperion Development Bootcamp.
+[![David Miller’s Garage showcase](docs/assets/david-millers-garage-showcase.webp)](https://david-millers-garage.vercel.app/)
 
-The project has been repaired and brought back to a reliable working state while preserving its original Git history and original learning-project context.
+A restored MERN car collection CRUD application, originally built in 2020 as part of the Hyperion Development Bootcamp.
 
 ## Live Demo
 
