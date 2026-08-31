@@ -30,7 +30,7 @@ const demoCars = [
   {
     _id: "demo-ford",
     owner: "Demo Owner",
-    model: "GT40",
+    model: "GT-40",
     make: "Ford",
     color: "White",
     registration_Number: "DEMO-004",
