@@ -4,20 +4,36 @@ const Car = require('../models/cars.model');
 
 const demoCars = [
   {
-    _id: 'demo-aston-martin',
-    owner: 'Demo Owner',
-    model: 'Vantage',
-    make: 'Aston Martin',
-    color: 'Silver',
-    registration_Number: 'DEMO-001',
+    _id: "demo-aston-martin",
+    owner: "Demo Owner",
+    model: "Vantage",
+    make: "Aston Martin",
+    color: "Forrest Green",
+    registration_Number: "DEMO-001",
   },
   {
-    _id: 'demo-porsche',
-    owner: 'Demo Owner',
-    model: '911',
-    make: 'Porsche',
-    color: 'Blue',
-    registration_Number: 'DEMO-002',
+    _id: "demo-ferrari",
+    owner: "Demo Owner",
+    model: "La Ferrari",
+    make: "Ferrari",
+    color: "Red",
+    registration_Number: "DEMO-002",
+  },
+  {
+    _id: "demo-porsche",
+    owner: "Demo Owner",
+    model: "911 targa",
+    make: "Porsche",
+    color: "Maroon",
+    registration_Number: "DEMO-003",
+  },
+  {
+    _id: "demo-ford",
+    owner: "Demo Owner",
+    model: "GT40",
+    make: "Ford",
+    color: "White",
+    registration_Number: "DEMO-004",
   },
 ];
 
