@@ -1,12 +1,14 @@
 # David Miller’s Garage
 
+**Restored MERN CRUD application with verified API behaviour, automated CI and production deployment.**
+
 [![David Miller’s Garage showcase](docs/assets/david-millers-garage-showcase.webp)](https://david-millers-garage.vercel.app/)
 
-A restored MERN car collection CRUD application, originally built in 2020 as part of the Hyperion Development Bootcamp.
+A car-collection application originally built in 2020 as part of the Hyperion Development Bootcamp and later restored without replacing the original project identity.
 
-## Live Demo
-
-**Online demo:** https://david-millers-garage.vercel.app
+**Live:** [david-millers-garage.vercel.app](https://david-millers-garage.vercel.app)  
+**Stack:** React · Node.js · Express · MongoDB / Mongoose · GitHub Actions  
+**Status:** Restored / Complete / Live
 
 The hosted version is a safe demonstration environment. Demo data is disposable and is not intended as permanent storage.
 
